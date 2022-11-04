@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/Hello.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/PrimeiroPrograma.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/worksheet.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Hello.scala" beforeDir="false" />
+    <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="First Update">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/Calculadora.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/ProgramaCalculadora.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +53,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PrimeiroPrograma">
+  <component name="RunManager" selected="Application.ProgramaCalculadora">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="aprendendoScalla.Hello" />
       <module name="HelloScala" />
@@ -80,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProgramaCalculadora" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="aprendendoScalla.ProgramaCalculadora" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendendoScalla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramaCalculadora" />
         <item itemvalue="Application.PrimeiroPrograma" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -96,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667510979665</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Update">
+      <created>1667576702533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667576702534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Update" />
   </component>
 </project>
