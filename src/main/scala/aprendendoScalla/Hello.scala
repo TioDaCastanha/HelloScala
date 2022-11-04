@@ -1,3 +1,5 @@
+package aprendendoScalla
+
 import javax.swing.JOptionPane
 
 object Hello extends App {
