@@ -1,5 +1,7 @@
 package aprendendoScalla
 
+import scala.util.Try
+
 object Calculadora {
   def soma(x: Int, y: Int): Int = x + y
 
@@ -7,7 +9,14 @@ object Calculadora {
 
   def mult(x: Int, y: Int): Int = x * y
 
-  def + = soma _
+  def div(x: Int, y: Int): Int = Try(x / y).getOrElse(0)
 
-  def - = sub _
+  def + : (Int, Int) => Int = soma
+
+  def - : (Int, Int) => Int = sub
+
+  def * : (Int, Int) => Int = mult
+
+  def /(a: Int, b:Int): Int = div(a, b)
+
 }

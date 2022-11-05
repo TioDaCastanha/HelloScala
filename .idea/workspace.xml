@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="Second Update" />
+    <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="third Update">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/aprendendo.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/Calculadora.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/Calculadora.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/ProgramaCalculadora.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/ProgramaCalculadora.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667592090895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third Update">
+      <created>1667592425231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667592425231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Update" />
     <MESSAGE value="Second Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Update" />
+    <MESSAGE value="third Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="third Update" />
   </component>
 </project>
