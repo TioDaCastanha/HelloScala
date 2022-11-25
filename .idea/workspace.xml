@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="Lista Update">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExercicios/Ex36.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExercicios/Ex37.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/aprendendoScalla/Triangulo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex38.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex39.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex40.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex41.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex42.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex43.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex44.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +63,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex37">
-    <configuration name="Ex34" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExercicios.Ex34" />
+  <component name="RunManager" selected="Application.Ex43">
+    <configuration name="Ex39" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex39" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaExercicios.*" />
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex35" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExercicios.Ex35" />
+    <configuration name="Ex40" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex40" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaExercicios.*" />
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex36" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExercicios.Ex36" />
+    <configuration name="Ex41" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex41" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaExercicios.*" />
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex37" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExercicios.Ex37" />
+    <configuration name="Ex42" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex42" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaExercicios.*" />
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangulo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="aprendendoScalla.Triangulo" />
+    <configuration name="Ex43" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex43" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aprendendoScalla.*" />
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex37" />
-        <item itemvalue="Application.Ex36" />
-        <item itemvalue="Application.Triangulo" />
-        <item itemvalue="Application.Ex35" />
-        <item itemvalue="Application.Ex34" />
+        <item itemvalue="Application.Ex43" />
+        <item itemvalue="Application.Ex41" />
+        <item itemvalue="Application.Ex42" />
+        <item itemvalue="Application.Ex40" />
+        <item itemvalue="Application.Ex39" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669311565204</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lista Update">
+      <created>1669323559199</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669323559199</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
