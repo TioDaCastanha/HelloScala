@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="Lista Update">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex47.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex48.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex49.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex50.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex51.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex52.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex53.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex54.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,55 +56,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;idea.background.editor&quot;: &quot;C:\\Users\\alan.cruz\\OneDrive - Accenture\\Pictures\\Pictures\\scifi-robot-parking-garrage-1f.jpg,12,scale,center,flipH&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alan.cruz/OneDrive - Accenture/Documents/Desenvolvimento de Sistemas/BackEndCourse/Desafio do Módulo 2-20221213/api-nodejs_incompleto&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex51">
-    <configuration name="Ex47" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex47" />
+  <component name="RunManager" selected="Application.Ex54">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="aprendendoScalla.Calculator" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex48" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex48" />
-      <module name="HelloScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex49" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex49" />
-      <module name="HelloScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex50" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex50" />
-      <module name="HelloScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
+          <option name="PATTERN" value="aprendendoScalla.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +87,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex52" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex52" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex53" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex53" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex54" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex54" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex54" />
+        <item itemvalue="Application.Ex53" />
+        <item itemvalue="Application.Ex52" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Ex51" />
-        <item itemvalue="Application.Ex50" />
-        <item itemvalue="Application.Ex49" />
-        <item itemvalue="Application.Ex48" />
-        <item itemvalue="Application.Ex47" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669419274575</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Lista Update">
+      <created>1669684208125</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669684208125</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
