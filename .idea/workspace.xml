@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="Lista Update">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex63.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex64.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex65.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex66.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex67.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte2/Ex68.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,46 +60,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex65">
-    <configuration name="Ex61" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex61" />
-      <module name="HelloScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex62" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex62" />
-      <module name="HelloScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex63" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex63" />
-      <module name="HelloScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex68">
     <configuration name="Ex64" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex64" />
       <module name="HelloScala" />
@@ -126,13 +87,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex66" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex66" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex67" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex67" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex68" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex68" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExerciciosParte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex68" />
+        <item itemvalue="Application.Ex67" />
+        <item itemvalue="Application.Ex66" />
         <item itemvalue="Application.Ex65" />
         <item itemvalue="Application.Ex64" />
-        <item itemvalue="Application.Ex63" />
-        <item itemvalue="Application.Ex62" />
-        <item itemvalue="Application.Ex61" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671548647718</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Lista Update">
+      <created>1671556752838</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1671556752838</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
