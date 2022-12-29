@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aac441-1300-471b-9f90-a81cb3f3f09b" name="Default Changelist" comment="Lista Update">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex90.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex91.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex92.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex93.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex94.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex95.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex100.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex96.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex97.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex98.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListaExerciciosParte3/Ex99.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,22 +62,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex95">
-    <configuration name="Ex70" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte2.Ex70" />
-      <module name="HelloScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaExerciciosParte2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex91" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex91" />
+  <component name="RunManager" selected="Application.Ex100">
+    <configuration name="Ex100" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex100" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex92" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex92" />
+    <configuration name="Ex96" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex96" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex94" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex94" />
+    <configuration name="Ex97" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex97" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +102,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex95" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex95" />
+    <configuration name="Ex98" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex98" />
+      <module name="HelloScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExerciciosParte3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex99" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExerciciosParte3.Ex99" />
       <module name="HelloScala" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex95" />
-        <item itemvalue="Application.Ex94" />
-        <item itemvalue="Application.Ex92" />
-        <item itemvalue="Application.Ex70" />
-        <item itemvalue="Application.Ex91" />
+        <item itemvalue="Application.Ex100" />
+        <item itemvalue="Application.Ex99" />
+        <item itemvalue="Application.Ex98" />
+        <item itemvalue="Application.Ex97" />
+        <item itemvalue="Application.Ex96" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672190599511</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Lista Update">
+      <created>1672256986542</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1672256986542</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
